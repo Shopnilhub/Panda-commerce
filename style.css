@@ -1,0 +1,78 @@
+.container{
+    margin-bottom: 50px;
+}
+.orange-bg{
+    background-color: #FEEAE9;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+   color: #FF2E80;
+}
+.buy-btn{
+    background-image: linear-gradient(to bottom, #ef90b5 0%, #FF136F 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+.categories img{
+    width: 120px;
+
+}
+
+.cat-1, .cat-2, .cat-3{
+    padding: 10px 30px;
+    color: white;
+    border-radius: 10px;
+}
+.cat-1{
+    background-image: linear-gradient(to bottom, #e20459 0%, #e996b6 100%);
+    margin-bottom: 10px;
+    
+}
+.cat-2{
+    background-image: linear-gradient(to bottom, #3c2efa 0%, #a692f0 100%);
+    margin-bottom: 10px;
+
+}
+.cat-3{
+    background-image: linear-gradient(to bottom, #93ac05 0%, #e7faa1 100%);
+    margin-bottom: 10px;
+}
+.card{
+    border: none;
+    box-shadow: 2px 12px 20px  2px lightgray;
+    border-radius: 10px;
+}
+.card button{
+        background-image: linear-gradient(to bottom, #645c5f 0%, #161314 100%);
+        color: white;
+        border: none;
+        border-radius: 8px;
+        padding: 9px 25px;
+        cursor: pointer;
+}
+.card-footer{
+    border: none;
+}
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: rgb(150, 149, 149);
+}
+.footer button {
+    margin-top: 10px;
+}
+.shoes h3 {
+    margin-bottom: 30px;
+}
+
+.backpack h3 {
+    margin-bottom: 30px;
+}
